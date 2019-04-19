@@ -1,3 +1,3 @@
 # DownloadSdk
 
-pod 'FDLSDK', '~> 0.0.1'
+pod 'FDLSDK', '~> 0.0.2'
