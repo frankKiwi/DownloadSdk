@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "FDLSDK"
   s.version      = "0.0.1"
-  s.summary      = "A short description of FDLSDK."
+  s.summary      = "简介 FDLSDK."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  #s.exclude_files = "Classes/Exclude"
 
   s.public_header_files = "Classes/**/*.h"
 
